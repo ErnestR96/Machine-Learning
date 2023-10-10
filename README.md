@@ -3,7 +3,7 @@
 
 Dataset
 
-El conjunto de datos a analizar se encuentra en el directorio resources/comprar_alquilar.csv. 
+El conjunto de datos a analizar se encuentra en el archivo: comprar_alquilar.csv. 
 Este conjunto de datos fue utilizado para entrenar y evaluar el clasificador Naive Bayes. Contiene información relevante que será utilizada para decidir si comprar o no comprar una vivienda.
 
 Variables existentes
